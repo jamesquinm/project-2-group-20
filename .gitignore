@@ -1,0 +1,14 @@
+.vs/
+*.o
+*.ko
+*.mod
+*.mod.c
+*.cmd
+*.symvers
+*.order
+.tmp_versions/
+part1/empty
+part1/part1
+part3/tests/elevator-test/consumer
+part3/tests/elevator-test/producer
+part3/tests/system-calls-test/test-syscalls
