@@ -4,7 +4,7 @@ This project traces system calls, adds three system calls to Linux kernel 6.16.1
 two kernel modules: a `/proc/timer` module and a pet elevator scheduler.
 
 ## Group Members
-- **James Mosely**: [your FSU email]
+- **James Mosely**: jqm22@fsu.edu
 ## Division of Labor
 
 ### Part 1: System Call Tracing
